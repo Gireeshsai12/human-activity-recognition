@@ -85,6 +85,6 @@ human-activity-recognition/
 ```
 
 ## Author
-Gireesh Sai Kalluri
+Gireesh Sai Kalluri,
 PragnaSri Bandi
 Computer Science Student, University of Massachusetts Lowell
